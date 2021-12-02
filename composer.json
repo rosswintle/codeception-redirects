@@ -1,8 +1,8 @@
 {
-  "name": "gamajo/codeception-redirects",
+  "name": "rosswintle/codeception-redirects",
   "description": "Codeception Redirects Module",
   "license": "MIT",
-  "homepage": "https://github.com/GaryJones/codeception-redirects",
+  "homepage": "https://github.com/rosswintle/codeception-redirects",
   "authors": [
     {
       "name": "Gary Jones",
@@ -10,10 +10,6 @@
       "role": "Developer"
     }
   ],
-  "support": {
-    "issues": "https://github.com/gamajo/codeception-redirects/issues",
-    "source": "https://github.com/gamajo/codeception-redirects"
-  },
   "config": {
     "sort-order": true
   },
